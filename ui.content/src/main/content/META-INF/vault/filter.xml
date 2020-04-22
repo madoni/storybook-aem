@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/storybook" mode="merge"/>
+    <filter root="/content/storybook" mode="merge"/>
+    <filter root="/content/dam/storybook" mode="merge"/>
+    <filter root="/content/experience-fragments/storybook" mode="merge"/>
+</workspaceFilter>
